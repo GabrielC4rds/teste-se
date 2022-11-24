@@ -1,0 +1,191 @@
+{
+  "exercisesList": [
+    {
+      "id": 1,
+      "title": "Exercício 1",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber o por quê dessa confusão.",
+        "II- Queria saber porque você faltou aula.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Exercício 2",
+      "creationYear": "1763",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber porque você faltou aula.",
+        "II- Queria saber o por quê dessa confusão.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Exercício 3",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber o por quê dessa confusão.",
+        "II- Acordo cedo porque gosto de estudar.",
+        "III- Queria saber porque você faltou aula."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Exercício 4",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber porque você faltou aula.",
+        "II- Queria saber o por quê dessa confusão.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Exercício 5",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber o por quê dessa confusão.",
+        "II- Queria saber porque você faltou aula.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Exercício 6",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber porque você faltou aula.",
+        "II- Queria saber o por quê dessa confusão.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Exercício 7",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber o por quê dessa confusão.",
+        "II- Queria saber porque você faltou aula.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Exercício 8",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber o por quê dessa confusão.",
+        "II- Queria saber porque você faltou aula.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Exercício 9",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber porque você faltou aula.",
+        "II- Queria saber o por quê dessa confusão.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Exercício 10",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber o por quê dessa confusão.",
+        "II- Queria saber porque você faltou aula.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Exercício 11",
+      "creationYear": "1762",
+      "educationInstituition": "Super Ensino",
+      "affirmativeQuestions": [
+        "I- Queria saber o por quê dessa confusão.",
+        "II- Queria saber porque você faltou aula.",
+        "III- Acordo cedo porque gosto de estudar."
+      ],
+      "answers": [
+        { "option": "a", "answer": "II e III." },
+        { "option": "b", "answer": "apenas a I." },
+        { "option": "c", "answer": "I,II e III." },
+        { "option": "d", "answer": "apenas a III." }
+      ]
+    }
+  ]
+}
