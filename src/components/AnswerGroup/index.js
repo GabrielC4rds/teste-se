@@ -5,19 +5,27 @@ import { Content, NextButton, AnswerDiv, Title } from "./styles";
 import FakeApi from "../../FakeApi.json";
 import { StoreContext } from "./../../Context";
 import { useEffect } from "react";
+import { useState } from 'react';
 
 export default function AnswerGroup() {
   const [id, setId] = useContext(StoreContext);
+  const [option, setOption] = useState();
+  const totalQuestions = FakeApi.exercisesList.length;
+  const [points, setPoints] = useState(0);
+
 
   useEffect(() => {
     setId(1);
-    if (id <= FakeApi.exercisesList.length) {
-    }
   }, []);
 
-  const NextQuestion = () => {
-    if (id < FakeApi.exercisesList.length) {
+  const NextQuestion = (isCorrect) => {
+    if(isCorrect){
+      setPoints(points + 1);
+    }
+    if (id < totalQuestions) {
       setId(id + 1);
+    }else{
+      alert(`Você acertou ${points} de ${totalQuestions} questões`)
     }
   };
 
@@ -28,14 +36,14 @@ export default function AnswerGroup() {
           <Title>
             ({FakeApi.exercisesList[id - 1].creationYear}) 
             <span>
-               Exercício {id}/{FakeApi.exercisesList.length}
+               Exercício {id}/{totalQuestions}
             </span>
           </Title>
         ) : (
           <Title>
             ({FakeApi.exercisesList[0].creationYear}) 
             <span>
-               Exercício {id}/{FakeApi.exercisesList.length}
+               Exercício {id}/{totalQuestions}
             </span>
           </Title>
         )}
@@ -72,7 +80,7 @@ export default function AnswerGroup() {
           ? FakeApi.exercisesList[id - 1].answers.map((res) => {
               return (
                 <AnswerDiv>
-                  <button>{res.option}</button>
+                  <button onClick={() => setOption(res.isCorrect)}>{res.option}</button>
                   {res.answer}
                 </AnswerDiv>
               );
@@ -80,13 +88,14 @@ export default function AnswerGroup() {
           : FakeApi.exercisesList[0].answers.map((res) => {
               return (
                 <AnswerDiv>
-                  <button>{res.option}</button>
+                  <button onClick={() => setOption(res.isCorrect)}>{res.option}</button>
                   {res.answer}
+                 
                 </AnswerDiv>
               );
             })}
       </div>
-      <NextButton onClick={() => NextQuestion()}>Concluído</NextButton>
+      <NextButton onClick={() => NextQuestion(option)}>Concluído</NextButton>
     </Content>
   );
 }

@@ -11,10 +11,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "II e III.", "isCorrect": false },
+        { "option": "b", "answer": "apenas a I.", "isCorrect": false },
+        { "option": "c", "answer": "I,II e III.", "isCorrect": true },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -28,10 +28,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "I,II e III.", "isCorrect": true },
+        { "option": "b", "answer": "II e III.", "isCorrect": false },
+        { "option": "c", "answer": "apenas a I.", "isCorrect": false },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -45,10 +45,10 @@
         "III- Queria saber porque você faltou aula."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "II e III.", "isCorrect": false },
+        { "option": "b", "answer": "apenas a I.", "isCorrect": false },
+        { "option": "c", "answer": "I,II e III.", "isCorrect": true },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -62,10 +62,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "I,II e III.", "isCorrect": true },
+        { "option": "b", "answer": "II e III.", "isCorrect": false },
+        { "option": "c", "answer": "apenas a I.", "isCorrect": false },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -79,10 +79,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "II e III.", "isCorrect": false },
+        { "option": "b", "answer": "apenas a I.", "isCorrect": true },
+        { "option": "c", "answer": "I,II e III.", "isCorrect": false },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -96,10 +96,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "II e III.", "isCorrect": true },
+        { "option": "b", "answer": "apenas a I.", "isCorrect": false },
+        { "option": "c", "answer": "I,II e III.", "isCorrect": false },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -113,10 +113,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "II e III.", "isCorrect": false },
+        { "option": "b", "answer": "apenas a I.", "isCorrect": false },
+        { "option": "c", "answer": "I,II e III.", "isCorrect": true },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -130,10 +130,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "II e III.", "isCorrect": false },
+        { "option": "b", "answer": "I,II e III.", "isCorrect": false },
+        { "option": "c", "answer": "apenas a I.", "isCorrect": true },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -147,10 +147,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "II e III.", "isCorrect": false },
+        { "option": "b", "answer": "apenas a I.", "isCorrect": false },
+        { "option": "c", "answer": "I,II e III.", "isCorrect": true },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -164,10 +164,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "II e III.", "isCorrect": false },
+        { "option": "b", "answer": "I,II e III.", "isCorrect": false },
+        { "option": "c", "answer": "apenas a I.", "isCorrect": true },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     },
     {
@@ -181,10 +181,10 @@
         "III- Acordo cedo porque gosto de estudar."
       ],
       "answers": [
-        { "option": "a", "answer": "II e III." },
-        { "option": "b", "answer": "apenas a I." },
-        { "option": "c", "answer": "I,II e III." },
-        { "option": "d", "answer": "apenas a III." }
+        { "option": "a", "answer": "apenas a I.", "isCorrect": false },
+        { "option": "b", "answer": "II e III.", "isCorrect": false },
+        { "option": "c", "answer": "I,II e III.", "isCorrect": true },
+        { "option": "d", "answer": "apenas a III.", "isCorrect": false }
       ]
     }
   ]
